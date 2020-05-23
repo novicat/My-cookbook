@@ -1,3 +1,0 @@
-hello,
-mult-line text,
-blah
