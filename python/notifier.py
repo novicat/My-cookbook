@@ -1,3 +1,6 @@
+# requries the following installed locally:
+# sudo apt install python-gi gir1.2-notify-0.7
+
 import gi
 gi.require_version('Notify','0.7')
 
